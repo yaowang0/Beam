@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ApacheBeamTest.iml" filepath="$PROJECT_DIR$/ApacheBeamTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beam.iml" filepath="$PROJECT_DIR$/Beam.iml" />
     </modules>
   </component>
 </project>
